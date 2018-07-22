@@ -1,0 +1,12 @@
+# Folders
+.bit/
+.vscode/
+build/
+coverage/
+dist/
+node_modules/
+
+# Files
+*.log*
+.DS_Store
+.env
